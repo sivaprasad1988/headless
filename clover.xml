@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1634909040">
-  <project timestamp="1634909040">
+<coverage generated="1634910447">
+  <project timestamp="1634910447">
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/BooleanContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\BooleanContentObject" namespace="global">
         <metrics complexity="5" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="0" elements="13" coveredelements="0"/>
@@ -1072,6 +1072,20 @@
       <line num="136" type="stmt" count="0"/>
       <line num="139" type="stmt" count="0"/>
       <metrics loc="141" ncloc="123" classes="1" methods="3" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="34" coveredstatements="0" elements="37" coveredelements="0"/>
+    </file>
+    <file name="/home/runner/work/headless/headless/Classes/Hooks/FileOrFolderLinkBuilder.php">
+      <class name="FriendsOfTYPO3\Headless\Hooks\FileOrFolderLinkBuilder" namespace="global">
+        <metrics complexity="6" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="7" coveredstatements="0" elements="8" coveredelements="0"/>
+      </class>
+      <line num="26" type="method" name="build" visibility="public" complexity="6" crap="42" count="0"/>
+      <line num="28" type="stmt" count="0"/>
+      <line num="31" type="stmt" count="0"/>
+      <line num="32" type="stmt" count="0"/>
+      <line num="33" type="stmt" count="0"/>
+      <line num="34" type="stmt" count="0"/>
+      <line num="36" type="stmt" count="0"/>
+      <line num="39" type="stmt" count="0"/>
+      <metrics loc="41" ncloc="29" classes="1" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="7" coveredstatements="0" elements="8" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Hooks/PreviewUrlHook.php">
       <class name="FriendsOfTYPO3\Headless\Hooks\PreviewUrlHook" namespace="global">
@@ -2196,6 +2210,6 @@
       <line num="112" type="stmt" count="0"/>
       <metrics loc="114" ncloc="103" classes="1" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="41" coveredstatements="0" elements="42" coveredelements="0"/>
     </file>
-    <metrics files="59" loc="6135" ncloc="4661" classes="50" methods="162" coveredmethods="11" conditionals="0" coveredconditionals="0" statements="1704" coveredstatements="102" elements="1866" coveredelements="113"/>
+    <metrics files="60" loc="6176" ncloc="4690" classes="51" methods="163" coveredmethods="11" conditionals="0" coveredconditionals="0" statements="1711" coveredstatements="102" elements="1874" coveredelements="113"/>
   </project>
 </coverage>
