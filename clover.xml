@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1636113267">
-  <project timestamp="1636113267">
+<coverage generated="1636473348">
+  <project timestamp="1636473348">
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/BooleanContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\BooleanContentObject" namespace="global">
         <metrics complexity="5" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="0" elements="13" coveredelements="0"/>
@@ -847,46 +847,46 @@
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Json/JsonDecoder.php">
       <class name="FriendsOfTYPO3\Headless\Json\JsonDecoder" namespace="global">
-        <metrics complexity="10" methods="2" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="19" coveredstatements="9" elements="21" coveredelements="10"/>
+        <metrics complexity="10" methods="2" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="19" coveredstatements="16" elements="21" coveredelements="17"/>
       </class>
-      <line num="28" type="method" name="decode" visibility="public" complexity="5" crap="30" count="0"/>
-      <line num="30" type="stmt" count="0"/>
-      <line num="32" type="stmt" count="0"/>
-      <line num="33" type="stmt" count="0"/>
-      <line num="34" type="stmt" count="0"/>
-      <line num="35" type="stmt" count="0"/>
-      <line num="37" type="stmt" count="0"/>
+      <line num="28" type="method" name="decode" visibility="public" complexity="5" crap="5.68" count="1"/>
+      <line num="30" type="stmt" count="1"/>
+      <line num="32" type="stmt" count="1"/>
+      <line num="33" type="stmt" count="1"/>
+      <line num="34" type="stmt" count="1"/>
+      <line num="35" type="stmt" count="1"/>
+      <line num="37" type="stmt" count="1"/>
       <line num="39" type="stmt" count="0"/>
       <line num="40" type="stmt" count="0"/>
       <line num="42" type="stmt" count="0"/>
-      <line num="45" type="stmt" count="0"/>
-      <line num="51" type="method" name="isJson" visibility="public" complexity="5" crap="5" count="16"/>
-      <line num="53" type="stmt" count="16"/>
+      <line num="45" type="stmt" count="1"/>
+      <line num="51" type="method" name="isJson" visibility="public" complexity="5" crap="5" count="17"/>
+      <line num="53" type="stmt" count="17"/>
       <line num="54" type="stmt" count="5"/>
-      <line num="57" type="stmt" count="11"/>
-      <line num="59" type="stmt" count="11"/>
+      <line num="57" type="stmt" count="12"/>
+      <line num="59" type="stmt" count="12"/>
       <line num="60" type="stmt" count="3"/>
-      <line num="63" type="stmt" count="8"/>
-      <line num="65" type="stmt" count="8"/>
+      <line num="63" type="stmt" count="9"/>
+      <line num="65" type="stmt" count="9"/>
       <line num="66" type="stmt" count="7"/>
-      <line num="69" type="stmt" count="1"/>
-      <metrics loc="71" ncloc="57" classes="1" methods="2" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="19" coveredstatements="9" elements="21" coveredelements="10"/>
+      <line num="69" type="stmt" count="2"/>
+      <metrics loc="71" ncloc="57" classes="1" methods="2" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="19" coveredstatements="16" elements="21" coveredelements="17"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Json/JsonDecoderInterface.php">
       <metrics loc="29" ncloc="13" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Json/JsonEncoder.php">
       <class name="FriendsOfTYPO3\Headless\Json\JsonEncoder" namespace="global">
-        <metrics complexity="3" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="6" coveredstatements="0" elements="7" coveredelements="0"/>
+        <metrics complexity="3" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="6" coveredstatements="6" elements="7" coveredelements="7"/>
       </class>
-      <line num="29" type="method" name="encode" visibility="public" complexity="3" crap="12" count="0"/>
-      <line num="32" type="stmt" count="0"/>
-      <line num="33" type="stmt" count="0"/>
-      <line num="36" type="stmt" count="0"/>
-      <line num="37" type="stmt" count="0"/>
-      <line num="38" type="stmt" count="0"/>
-      <line num="39" type="stmt" count="0"/>
-      <metrics loc="42" ncloc="31" classes="1" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="6" coveredstatements="0" elements="7" coveredelements="0"/>
+      <line num="30" type="method" name="encode" visibility="public" complexity="3" crap="3" count="3"/>
+      <line num="33" type="stmt" count="3"/>
+      <line num="34" type="stmt" count="3"/>
+      <line num="37" type="stmt" count="3"/>
+      <line num="38" type="stmt" count="1"/>
+      <line num="39" type="stmt" count="1"/>
+      <line num="40" type="stmt" count="1"/>
+      <metrics loc="43" ncloc="32" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="6" coveredstatements="6" elements="7" coveredelements="7"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Json/JsonEncoderInterface.php">
       <metrics loc="24" ncloc="11" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
@@ -1399,6 +1399,6 @@
       </class>
       <metrics loc="116" ncloc="102" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
-    <metrics files="71" loc="7436" ncloc="5753" classes="24" methods="94" coveredmethods="9" conditionals="0" coveredconditionals="0" statements="915" coveredstatements="75" elements="1009" coveredelements="84"/>
+    <metrics files="71" loc="7437" ncloc="5754" classes="24" methods="94" coveredmethods="10" conditionals="0" coveredconditionals="0" statements="915" coveredstatements="88" elements="1009" coveredelements="98"/>
   </project>
 </coverage>
