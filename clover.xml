@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1636473348">
-  <project timestamp="1636473348">
+<coverage generated="1636474486">
+  <project timestamp="1636474486">
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/BooleanContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\BooleanContentObject" namespace="global">
         <metrics complexity="5" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="0" elements="13" coveredelements="0"/>
