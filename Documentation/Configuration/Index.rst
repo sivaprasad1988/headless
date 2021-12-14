@@ -354,7 +354,7 @@ To use JsonRedirect you have to define it in setup.yaml of your extension form's
 
 
 [BETA] JsonView backend module
-========================
+================================
 
 
 .. image:: ../Images/Configuration/JsonViewModule.png

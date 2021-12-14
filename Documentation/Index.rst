@@ -69,6 +69,7 @@ or `report a problem <https://github.com/TYPO3-Initiatives/headless/issues/new>`
    :glob:
 
    Introduction/Index
+   Requirements/Index
    Installation/Index
    Configuration/Index
    Developer/Index
