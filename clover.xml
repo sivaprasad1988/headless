@@ -1,43 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1642110309">
-  <project timestamp="1642110309">
+<coverage generated="1642168218">
+  <project timestamp="1642168218">
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/BooleanContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\BooleanContentObject" namespace="global">
         <metrics complexity="5" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="0" elements="13" coveredelements="0"/>
       </class>
-      <line num="31" type="method" name="render" visibility="public" complexity="5" crap="30" count="0"/>
+      <line num="28" type="method" name="render" visibility="public" complexity="5" crap="30" count="0"/>
+      <line num="30" type="stmt" count="0"/>
+      <line num="31" type="stmt" count="0"/>
       <line num="33" type="stmt" count="0"/>
       <line num="34" type="stmt" count="0"/>
+      <line num="35" type="stmt" count="0"/>
       <line num="36" type="stmt" count="0"/>
-      <line num="37" type="stmt" count="0"/>
       <line num="38" type="stmt" count="0"/>
       <line num="39" type="stmt" count="0"/>
-      <line num="41" type="stmt" count="0"/>
+      <line num="40" type="stmt" count="0"/>
       <line num="42" type="stmt" count="0"/>
       <line num="43" type="stmt" count="0"/>
       <line num="45" type="stmt" count="0"/>
-      <line num="46" type="stmt" count="0"/>
-      <line num="48" type="stmt" count="0"/>
-      <metrics loc="50" ncloc="34" classes="1" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="0" elements="13" coveredelements="0"/>
+      <metrics loc="47" ncloc="31" classes="1" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="0" elements="13" coveredelements="0"/>
+    </file>
+    <file name="/home/runner/work/headless/headless/Classes/ContentObject/FloatContentObject.php">
+      <class name="FriendsOfTYPO3\Headless\ContentObject\FloatContentObject" namespace="global">
+        <metrics complexity="5" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="0" elements="13" coveredelements="0"/>
+      </class>
+      <line num="28" type="method" name="render" visibility="public" complexity="5" crap="30" count="0"/>
+      <line num="30" type="stmt" count="0"/>
+      <line num="31" type="stmt" count="0"/>
+      <line num="33" type="stmt" count="0"/>
+      <line num="34" type="stmt" count="0"/>
+      <line num="35" type="stmt" count="0"/>
+      <line num="36" type="stmt" count="0"/>
+      <line num="38" type="stmt" count="0"/>
+      <line num="39" type="stmt" count="0"/>
+      <line num="40" type="stmt" count="0"/>
+      <line num="42" type="stmt" count="0"/>
+      <line num="43" type="stmt" count="0"/>
+      <line num="45" type="stmt" count="0"/>
+      <metrics loc="47" ncloc="31" classes="1" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="0" elements="13" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/IntegerContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\IntegerContentObject" namespace="global">
         <metrics complexity="5" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="0" elements="13" coveredelements="0"/>
       </class>
-      <line num="31" type="method" name="render" visibility="public" complexity="5" crap="30" count="0"/>
+      <line num="28" type="method" name="render" visibility="public" complexity="5" crap="30" count="0"/>
+      <line num="30" type="stmt" count="0"/>
+      <line num="31" type="stmt" count="0"/>
       <line num="33" type="stmt" count="0"/>
       <line num="34" type="stmt" count="0"/>
+      <line num="35" type="stmt" count="0"/>
       <line num="36" type="stmt" count="0"/>
-      <line num="37" type="stmt" count="0"/>
       <line num="38" type="stmt" count="0"/>
       <line num="39" type="stmt" count="0"/>
-      <line num="41" type="stmt" count="0"/>
+      <line num="40" type="stmt" count="0"/>
       <line num="42" type="stmt" count="0"/>
       <line num="43" type="stmt" count="0"/>
       <line num="45" type="stmt" count="0"/>
-      <line num="46" type="stmt" count="0"/>
-      <line num="48" type="stmt" count="0"/>
-      <metrics loc="50" ncloc="34" classes="1" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="0" elements="13" coveredelements="0"/>
+      <metrics loc="47" ncloc="31" classes="1" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="0" elements="13" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/JsonContentContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\JsonContentContentObject" namespace="global">
@@ -129,7 +148,7 @@
     </file>
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/JsonContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\JsonContentObject" namespace="global">
-        <metrics complexity="38" methods="6" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="77" coveredstatements="0" elements="83" coveredelements="0"/>
+        <metrics complexity="41" methods="6" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="79" coveredstatements="0" elements="85" coveredelements="0"/>
       </class>
       <line num="42" type="method" name="__construct" visibility="public" complexity="1" crap="2" count="0"/>
       <line num="44" type="stmt" count="0"/>
@@ -151,7 +170,7 @@
       <line num="75" type="stmt" count="0"/>
       <line num="76" type="stmt" count="0"/>
       <line num="79" type="stmt" count="0"/>
-      <line num="91" type="method" name="cObjGet" visibility="public" complexity="17" crap="306" count="0"/>
+      <line num="91" type="method" name="cObjGet" visibility="public" complexity="20" crap="420" count="0"/>
       <line num="93" type="stmt" count="0"/>
       <line num="94" type="stmt" count="0"/>
       <line num="96" type="stmt" count="0"/>
@@ -170,50 +189,52 @@
       <line num="112" type="stmt" count="0"/>
       <line num="114" type="stmt" count="0"/>
       <line num="115" type="stmt" count="0"/>
+      <line num="117" type="stmt" count="0"/>
       <line num="118" type="stmt" count="0"/>
-      <line num="119" type="stmt" count="0"/>
-      <line num="120" type="stmt" count="0"/>
+      <line num="121" type="stmt" count="0"/>
       <line num="122" type="stmt" count="0"/>
       <line num="123" type="stmt" count="0"/>
       <line num="125" type="stmt" count="0"/>
       <line num="126" type="stmt" count="0"/>
-      <line num="130" type="stmt" count="0"/>
-      <line num="140" type="method" name="filterByStringKeys" visibility="protected" complexity="4" crap="20" count="0"/>
-      <line num="142" type="stmt" count="0"/>
-      <line num="143" type="stmt" count="0"/>
-      <line num="144" type="stmt" count="0"/>
+      <line num="128" type="stmt" count="0"/>
+      <line num="129" type="stmt" count="0"/>
+      <line num="133" type="stmt" count="0"/>
+      <line num="143" type="method" name="filterByStringKeys" visibility="protected" complexity="4" crap="20" count="0"/>
       <line num="145" type="stmt" count="0"/>
       <line num="146" type="stmt" count="0"/>
+      <line num="147" type="stmt" count="0"/>
+      <line num="148" type="stmt" count="0"/>
       <line num="149" type="stmt" count="0"/>
-      <line num="156" type="method" name="processFieldWithDataProcessing" visibility="protected" complexity="6" crap="42" count="0"/>
-      <line num="158" type="stmt" count="0"/>
-      <line num="159" type="stmt" count="0"/>
+      <line num="152" type="stmt" count="0"/>
+      <line num="159" type="method" name="processFieldWithDataProcessing" visibility="protected" complexity="6" crap="42" count="0"/>
+      <line num="161" type="stmt" count="0"/>
       <line num="162" type="stmt" count="0"/>
-      <line num="163" type="stmt" count="0"/>
-      <line num="167" type="stmt" count="0"/>
-      <line num="168" type="stmt" count="0"/>
+      <line num="165" type="stmt" count="0"/>
+      <line num="166" type="stmt" count="0"/>
       <line num="170" type="stmt" count="0"/>
       <line num="171" type="stmt" count="0"/>
-      <line num="172" type="stmt" count="0"/>
+      <line num="173" type="stmt" count="0"/>
+      <line num="174" type="stmt" count="0"/>
       <line num="175" type="stmt" count="0"/>
-      <line num="176" type="stmt" count="0"/>
-      <line num="177" type="stmt" count="0"/>
+      <line num="178" type="stmt" count="0"/>
+      <line num="179" type="stmt" count="0"/>
       <line num="180" type="stmt" count="0"/>
-      <line num="186" type="method" name="recursiveFind" visibility="protected" complexity="5" crap="30" count="0"/>
-      <line num="188" type="stmt" count="0"/>
-      <line num="189" type="stmt" count="0"/>
-      <line num="190" type="stmt" count="0"/>
+      <line num="183" type="stmt" count="0"/>
+      <line num="189" type="method" name="recursiveFind" visibility="protected" complexity="5" crap="30" count="0"/>
       <line num="191" type="stmt" count="0"/>
+      <line num="192" type="stmt" count="0"/>
       <line num="193" type="stmt" count="0"/>
       <line num="194" type="stmt" count="0"/>
-      <line num="195" type="stmt" count="0"/>
       <line num="196" type="stmt" count="0"/>
       <line num="197" type="stmt" count="0"/>
       <line num="198" type="stmt" count="0"/>
+      <line num="199" type="stmt" count="0"/>
+      <line num="200" type="stmt" count="0"/>
       <line num="201" type="stmt" count="0"/>
-      <line num="202" type="stmt" count="0"/>
+      <line num="204" type="stmt" count="0"/>
       <line num="205" type="stmt" count="0"/>
-      <metrics loc="206" ncloc="172" classes="1" methods="6" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="77" coveredstatements="0" elements="83" coveredelements="0"/>
+      <line num="208" type="stmt" count="0"/>
+      <metrics loc="209" ncloc="175" classes="1" methods="6" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="79" coveredstatements="0" elements="85" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Controller/JsonViewController.php">
       <class name="FriendsOfTYPO3\Headless\Controller\JsonViewController" namespace="global">
@@ -1417,6 +1438,6 @@
       </class>
       <metrics loc="114" ncloc="102" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
-    <metrics files="71" loc="7356" ncloc="5803" classes="24" methods="96" coveredmethods="16" conditionals="0" coveredconditionals="0" statements="931" coveredstatements="160" elements="1027" coveredelements="176"/>
+    <metrics files="72" loc="7400" ncloc="5831" classes="25" methods="97" coveredmethods="16" conditionals="0" coveredconditionals="0" statements="945" coveredstatements="160" elements="1042" coveredelements="176"/>
   </project>
 </coverage>
