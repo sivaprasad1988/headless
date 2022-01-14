@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1642169228">
-  <project timestamp="1642169228">
+<coverage generated="1642170658">
+  <project timestamp="1642170658">
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/BooleanContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\BooleanContentObject" namespace="global">
         <metrics complexity="5" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="0" elements="13" coveredelements="0"/>
@@ -22,22 +22,22 @@
     </file>
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/FloatContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\FloatContentObject" namespace="global">
-        <metrics complexity="5" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="0" elements="13" coveredelements="0"/>
+        <metrics complexity="5" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="12" elements="13" coveredelements="13"/>
       </class>
-      <line num="28" type="method" name="render" visibility="public" complexity="5" crap="30" count="0"/>
-      <line num="30" type="stmt" count="0"/>
-      <line num="31" type="stmt" count="0"/>
-      <line num="33" type="stmt" count="0"/>
-      <line num="34" type="stmt" count="0"/>
-      <line num="35" type="stmt" count="0"/>
-      <line num="36" type="stmt" count="0"/>
-      <line num="38" type="stmt" count="0"/>
-      <line num="39" type="stmt" count="0"/>
-      <line num="40" type="stmt" count="0"/>
-      <line num="42" type="stmt" count="0"/>
-      <line num="43" type="stmt" count="0"/>
-      <line num="45" type="stmt" count="0"/>
-      <metrics loc="47" ncloc="31" classes="1" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="0" elements="13" coveredelements="0"/>
+      <line num="26" type="method" name="render" visibility="public" complexity="5" crap="5" count="10"/>
+      <line num="28" type="stmt" count="10"/>
+      <line num="29" type="stmt" count="1"/>
+      <line num="31" type="stmt" count="9"/>
+      <line num="32" type="stmt" count="9"/>
+      <line num="33" type="stmt" count="6"/>
+      <line num="34" type="stmt" count="6"/>
+      <line num="36" type="stmt" count="9"/>
+      <line num="37" type="stmt" count="1"/>
+      <line num="38" type="stmt" count="1"/>
+      <line num="40" type="stmt" count="9"/>
+      <line num="41" type="stmt" count="1"/>
+      <line num="43" type="stmt" count="9"/>
+      <metrics loc="45" ncloc="31" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="12" elements="13" coveredelements="13"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/IntegerContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\IntegerContentObject" namespace="global">
@@ -1438,6 +1438,6 @@
       </class>
       <metrics loc="114" ncloc="102" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
-    <metrics files="72" loc="7400" ncloc="5831" classes="25" methods="96" coveredmethods="16" conditionals="0" coveredconditionals="0" statements="946" coveredstatements="160" elements="1042" coveredelements="176"/>
+    <metrics files="72" loc="7398" ncloc="5831" classes="25" methods="96" coveredmethods="17" conditionals="0" coveredconditionals="0" statements="946" coveredstatements="172" elements="1042" coveredelements="189"/>
   </project>
 </coverage>
