@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1642168218">
-  <project timestamp="1642168218">
+<coverage generated="1642169228">
+  <project timestamp="1642169228">
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/BooleanContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\BooleanContentObject" namespace="global">
         <metrics complexity="5" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="0" elements="13" coveredelements="0"/>
@@ -1006,14 +1006,14 @@
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Middleware/ShortcutAndMountPointRedirect.php">
       <class name="FriendsOfTYPO3\Headless\Middleware\ShortcutAndMountPointRedirect" namespace="global">
-        <metrics complexity="20" methods="6" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="42" coveredstatements="0" elements="48" coveredelements="0"/>
+        <metrics complexity="20" methods="5" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="43" coveredstatements="0" elements="48" coveredelements="0"/>
       </class>
-      <line num="31" type="method" name="__construct" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="31" type="method" name="process" visibility="public" complexity="11" crap="132" count="0"/>
       <line num="33" type="stmt" count="0"/>
       <line num="34" type="stmt" count="0"/>
-      <line num="36" type="method" name="process" visibility="public" complexity="10" crap="110" count="0"/>
-      <line num="38" type="stmt" count="0"/>
-      <line num="39" type="stmt" count="0"/>
+      <line num="36" type="stmt" count="0"/>
+      <line num="37" type="stmt" count="0"/>
+      <line num="40" type="stmt" count="0"/>
       <line num="41" type="stmt" count="0"/>
       <line num="42" type="stmt" count="0"/>
       <line num="45" type="stmt" count="0"/>
@@ -1056,17 +1056,17 @@
       <line num="123" type="stmt" count="0"/>
       <line num="125" type="stmt" count="0"/>
       <line num="126" type="stmt" count="0"/>
-      <metrics loc="128" ncloc="114" classes="1" methods="6" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="42" coveredstatements="0" elements="48" coveredelements="0"/>
+      <metrics loc="128" ncloc="114" classes="1" methods="5" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="43" coveredstatements="0" elements="48" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Middleware/UserIntMiddleware.php">
       <class name="FriendsOfTYPO3\Headless\Middleware\UserIntMiddleware" namespace="global">
         <metrics complexity="4" methods="2" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="11" coveredstatements="0" elements="13" coveredelements="0"/>
       </class>
       <line num="34" type="method" name="__construct" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="37" type="stmt" count="0"/>
       <line num="38" type="stmt" count="0"/>
-      <line num="39" type="stmt" count="0"/>
-      <line num="40" type="stmt" count="0"/>
-      <line num="42" type="method" name="process" visibility="public" complexity="3" crap="12" count="0"/>
+      <line num="40" type="method" name="process" visibility="public" complexity="3" crap="12" count="0"/>
+      <line num="42" type="stmt" count="0"/>
       <line num="44" type="stmt" count="0"/>
       <line num="46" type="stmt" count="0"/>
       <line num="47" type="stmt" count="0"/>
@@ -1438,6 +1438,6 @@
       </class>
       <metrics loc="114" ncloc="102" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
-    <metrics files="72" loc="7400" ncloc="5831" classes="25" methods="97" coveredmethods="16" conditionals="0" coveredconditionals="0" statements="945" coveredstatements="160" elements="1042" coveredelements="176"/>
+    <metrics files="72" loc="7400" ncloc="5831" classes="25" methods="96" coveredmethods="16" conditionals="0" coveredconditionals="0" statements="946" coveredstatements="160" elements="1042" coveredelements="176"/>
   </project>
 </coverage>
