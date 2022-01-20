@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1642693783">
-  <project timestamp="1642693783">
+<coverage generated="1642697270">
+  <project timestamp="1642697270">
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/BooleanContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\BooleanContentObject" namespace="global">
         <metrics complexity="5" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="12" elements="13" coveredelements="13"/>
@@ -475,39 +475,39 @@
     </file>
     <file name="/home/runner/work/headless/headless/Classes/DataProcessing/RootSitesProcessor.php">
       <class name="FriendsOfTYPO3\Headless\DataProcessing\RootSitesProcessor" namespace="global">
-        <metrics complexity="5" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="29" coveredstatements="0" elements="30" coveredelements="0"/>
+        <metrics complexity="5" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="29" coveredstatements="29" elements="30" coveredelements="30"/>
       </class>
-      <line num="75" type="method" name="process" visibility="public" complexity="5" crap="30" count="0"/>
-      <line num="81" type="stmt" count="0"/>
-      <line num="83" type="stmt" count="0"/>
-      <line num="84" type="stmt" count="0"/>
-      <line num="87" type="stmt" count="0"/>
-      <line num="89" type="stmt" count="0"/>
-      <line num="90" type="stmt" count="0"/>
-      <line num="91" type="stmt" count="0"/>
-      <line num="94" type="stmt" count="0"/>
-      <line num="95" type="stmt" count="0"/>
-      <line num="97" type="stmt" count="0"/>
-      <line num="98" type="stmt" count="0"/>
-      <line num="99" type="stmt" count="0"/>
-      <line num="100" type="stmt" count="0"/>
-      <line num="101" type="stmt" count="0"/>
-      <line num="106" type="stmt" count="0"/>
-      <line num="107" type="stmt" count="0"/>
-      <line num="108" type="stmt" count="0"/>
-      <line num="109" type="stmt" count="0"/>
-      <line num="110" type="stmt" count="0"/>
-      <line num="118" type="stmt" count="0"/>
-      <line num="119" type="stmt" count="0"/>
-      <line num="124" type="stmt" count="0"/>
-      <line num="126" type="stmt" count="0"/>
-      <line num="127" type="stmt" count="0"/>
-      <line num="128" type="stmt" count="0"/>
-      <line num="130" type="stmt" count="0"/>
-      <line num="131" type="stmt" count="0"/>
-      <line num="132" type="stmt" count="0"/>
-      <line num="136" type="stmt" count="0"/>
-      <metrics loc="138" ncloc="89" classes="1" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="29" coveredstatements="0" elements="30" coveredelements="0"/>
+      <line num="75" type="method" name="process" visibility="public" complexity="5" crap="5" count="5"/>
+      <line num="81" type="stmt" count="5"/>
+      <line num="83" type="stmt" count="5"/>
+      <line num="84" type="stmt" count="1"/>
+      <line num="87" type="stmt" count="4"/>
+      <line num="89" type="stmt" count="4"/>
+      <line num="90" type="stmt" count="1"/>
+      <line num="91" type="stmt" count="1"/>
+      <line num="94" type="stmt" count="3"/>
+      <line num="95" type="stmt" count="3"/>
+      <line num="97" type="stmt" count="3"/>
+      <line num="98" type="stmt" count="1"/>
+      <line num="99" type="stmt" count="1"/>
+      <line num="100" type="stmt" count="1"/>
+      <line num="101" type="stmt" count="1"/>
+      <line num="106" type="stmt" count="2"/>
+      <line num="107" type="stmt" count="1"/>
+      <line num="108" type="stmt" count="1"/>
+      <line num="109" type="stmt" count="1"/>
+      <line num="110" type="stmt" count="1"/>
+      <line num="118" type="stmt" count="1"/>
+      <line num="119" type="stmt" count="1"/>
+      <line num="124" type="stmt" count="1"/>
+      <line num="126" type="stmt" count="1"/>
+      <line num="127" type="stmt" count="1"/>
+      <line num="128" type="stmt" count="1"/>
+      <line num="130" type="stmt" count="1"/>
+      <line num="131" type="stmt" count="1"/>
+      <line num="132" type="stmt" count="1"/>
+      <line num="136" type="stmt" count="1"/>
+      <metrics loc="138" ncloc="89" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="29" coveredstatements="29" elements="30" coveredelements="30"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Dto/JsonViewDemand.php">
       <class name="FriendsOfTYPO3\Headless\Dto\JsonViewDemand" namespace="global">
@@ -1377,6 +1377,6 @@
       </class>
       <metrics loc="114" ncloc="102" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
-    <metrics files="72" loc="7473" ncloc="5874" classes="24" methods="91" coveredmethods="62" conditionals="0" coveredconditionals="0" statements="890" coveredstatements="488" elements="981" coveredelements="550"/>
+    <metrics files="72" loc="7473" ncloc="5874" classes="24" methods="91" coveredmethods="63" conditionals="0" coveredconditionals="0" statements="890" coveredstatements="517" elements="981" coveredelements="580"/>
   </project>
 </coverage>
