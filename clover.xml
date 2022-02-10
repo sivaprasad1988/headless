@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1644484869">
-  <project timestamp="1644484869">
+<coverage generated="1644492641">
+  <project timestamp="1644492641">
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/BooleanContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\BooleanContentObject" namespace="global">
         <metrics complexity="5" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="12" elements="13" coveredelements="13"/>
@@ -60,13 +60,13 @@
     </file>
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/JsonContentContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\JsonContentContentObject" namespace="global">
-        <metrics complexity="36" methods="3" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="79" coveredstatements="0" elements="82" coveredelements="0"/>
+        <metrics complexity="38" methods="3" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="85" coveredstatements="0" elements="88" coveredelements="0"/>
       </class>
       <line num="30" type="method" name="__construct" visibility="public" complexity="1" crap="2" count="0"/>
       <line num="32" type="stmt" count="0"/>
       <line num="33" type="stmt" count="0"/>
       <line num="34" type="stmt" count="0"/>
-      <line num="39" type="method" name="render" visibility="public" complexity="30" crap="930" count="0"/>
+      <line num="39" type="method" name="render" visibility="public" complexity="32" crap="1056" count="0"/>
       <line num="41" type="stmt" count="0"/>
       <line num="42" type="stmt" count="0"/>
       <line num="45" type="stmt" count="0"/>
@@ -132,19 +132,25 @@
       <line num="130" type="stmt" count="0"/>
       <line num="131" type="stmt" count="0"/>
       <line num="135" type="stmt" count="0"/>
-      <line num="136" type="stmt" count="0"/>
       <line num="137" type="stmt" count="0"/>
-      <line num="145" type="method" name="groupContentElementsByColPos" visibility="protected" complexity="5" crap="30" count="0"/>
+      <line num="138" type="stmt" count="0"/>
+      <line num="139" type="stmt" count="0"/>
+      <line num="141" type="stmt" count="0"/>
+      <line num="142" type="stmt" count="0"/>
+      <line num="145" type="stmt" count="0"/>
+      <line num="146" type="stmt" count="0"/>
       <line num="147" type="stmt" count="0"/>
-      <line num="149" type="stmt" count="0"/>
-      <line num="150" type="stmt" count="0"/>
-      <line num="151" type="stmt" count="0"/>
-      <line num="152" type="stmt" count="0"/>
-      <line num="155" type="stmt" count="0"/>
-      <line num="156" type="stmt" count="0"/>
+      <line num="155" type="method" name="groupContentElementsByColPos" visibility="protected" complexity="5" crap="30" count="0"/>
       <line num="157" type="stmt" count="0"/>
+      <line num="159" type="stmt" count="0"/>
+      <line num="160" type="stmt" count="0"/>
       <line num="161" type="stmt" count="0"/>
-      <metrics loc="163" ncloc="150" classes="1" methods="3" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="79" coveredstatements="0" elements="82" coveredelements="0"/>
+      <line num="162" type="stmt" count="0"/>
+      <line num="165" type="stmt" count="0"/>
+      <line num="166" type="stmt" count="0"/>
+      <line num="167" type="stmt" count="0"/>
+      <line num="171" type="stmt" count="0"/>
+      <metrics loc="173" ncloc="160" classes="1" methods="3" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="85" coveredstatements="0" elements="88" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/JsonContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\JsonContentObject" namespace="global">
@@ -1442,6 +1448,6 @@
       </class>
       <metrics loc="114" ncloc="102" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
-    <metrics files="72" loc="7498" ncloc="5899" classes="24" methods="91" coveredmethods="72" conditionals="0" coveredconditionals="0" statements="955" coveredstatements="614" elements="1046" coveredelements="686"/>
+    <metrics files="72" loc="7508" ncloc="5909" classes="24" methods="91" coveredmethods="72" conditionals="0" coveredconditionals="0" statements="961" coveredstatements="614" elements="1052" coveredelements="686"/>
   </project>
 </coverage>
