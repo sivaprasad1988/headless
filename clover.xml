@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1645724374">
-  <project timestamp="1645724374">
+<coverage generated="1645800397">
+  <project timestamp="1645800397">
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/BooleanContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\BooleanContentObject" namespace="global">
         <metrics complexity="5" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="12" elements="13" coveredelements="13"/>
@@ -294,9 +294,9 @@
     </file>
     <file name="/home/runner/work/headless/headless/Classes/DataProcessing/FilesProcessor.php">
       <class name="FriendsOfTYPO3\Headless\DataProcessing\FilesProcessor" namespace="global">
-        <metrics complexity="28" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+        <metrics complexity="31" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="239" ncloc="188" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="253" ncloc="202" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/DataProcessing/FlexFormProcessor.php">
       <class name="FriendsOfTYPO3\Headless\DataProcessing\FlexFormProcessor" namespace="global">
@@ -1385,6 +1385,6 @@
       </class>
       <metrics loc="114" ncloc="95" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
-    <metrics files="72" loc="7587" ncloc="5851" classes="24" methods="92" coveredmethods="72" conditionals="0" coveredconditionals="0" statements="896" coveredstatements="561" elements="988" coveredelements="633"/>
+    <metrics files="72" loc="7601" ncloc="5865" classes="24" methods="92" coveredmethods="72" conditionals="0" coveredconditionals="0" statements="896" coveredstatements="561" elements="988" coveredelements="633"/>
   </project>
 </coverage>
