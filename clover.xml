@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1646232672">
-  <project timestamp="1646232672">
+<coverage generated="1647351219">
+  <project timestamp="1647351219">
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/BooleanContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\BooleanContentObject" namespace="global">
         <metrics complexity="5" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="12" elements="13" coveredelements="13"/>
@@ -18,7 +18,7 @@
       <line num="42" type="stmt" count="9"/>
       <line num="43" type="stmt" count="1"/>
       <line num="45" type="stmt" count="9"/>
-      <metrics loc="47" ncloc="31" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="12" elements="13" coveredelements="13"/>
+      <metrics loc="48" ncloc="32" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="12" elements="13" coveredelements="13"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/FloatContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\FloatContentObject" namespace="global">
@@ -37,7 +37,7 @@
       <line num="40" type="stmt" count="10"/>
       <line num="41" type="stmt" count="1"/>
       <line num="43" type="stmt" count="10"/>
-      <metrics loc="45" ncloc="31" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="12" elements="13" coveredelements="13"/>
+      <metrics loc="46" ncloc="32" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="12" elements="13" coveredelements="13"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/IntegerContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\IntegerContentObject" namespace="global">
@@ -56,7 +56,7 @@
       <line num="42" type="stmt" count="10"/>
       <line num="43" type="stmt" count="2"/>
       <line num="45" type="stmt" count="10"/>
-      <metrics loc="47" ncloc="31" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="12" elements="13" coveredelements="13"/>
+      <metrics loc="48" ncloc="32" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="12" elements="13" coveredelements="13"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/JsonContentContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\JsonContentContentObject" namespace="global">
@@ -157,7 +157,7 @@
       <line num="236" type="stmt" count="0"/>
       <line num="237" type="stmt" count="0"/>
       <line num="240" type="stmt" count="0"/>
-      <metrics loc="242" ncloc="177" classes="1" methods="4" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="91" coveredstatements="0" elements="95" coveredelements="0"/>
+      <metrics loc="243" ncloc="178" classes="1" methods="4" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="91" coveredstatements="0" elements="95" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/JsonContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\JsonContentObject" namespace="global">
@@ -241,13 +241,13 @@
       <line num="198" type="stmt" count="2"/>
       <line num="201" type="stmt" count="6"/>
       <line num="202" type="stmt" count="6"/>
-      <metrics loc="206" ncloc="172" classes="1" methods="6" coveredmethods="6" conditionals="0" coveredconditionals="0" statements="72" coveredstatements="72" elements="78" coveredelements="78"/>
+      <metrics loc="207" ncloc="173" classes="1" methods="6" coveredmethods="6" conditionals="0" coveredconditionals="0" statements="72" coveredstatements="72" elements="78" coveredelements="78"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Controller/JsonViewController.php">
       <class name="FriendsOfTYPO3\Headless\Controller\JsonViewController" namespace="global">
         <metrics complexity="25" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="202" ncloc="188" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="203" ncloc="189" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/DataProcessing/DataProcessingTrait.php">
       <class name="FriendsOfTYPO3\Headless\DataProcessing\DataProcessingTrait" namespace="global">
@@ -272,41 +272,41 @@
       <line num="57" type="stmt" count="1"/>
       <line num="58" type="stmt" count="1"/>
       <line num="59" type="stmt" count="1"/>
-      <metrics loc="63" ncloc="46" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="16" coveredstatements="16" elements="19" coveredelements="19"/>
+      <metrics loc="64" ncloc="47" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="16" coveredstatements="16" elements="19" coveredelements="19"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/DataProcessing/DatabaseQueryProcessor.php">
       <class name="FriendsOfTYPO3\Headless\DataProcessing\DatabaseQueryProcessor" namespace="global">
         <metrics complexity="13" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="154" ncloc="89" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="155" ncloc="90" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/DataProcessing/FilesProcessor.php">
       <class name="FriendsOfTYPO3\Headless\DataProcessing\FilesProcessor" namespace="global">
         <metrics complexity="31" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="253" ncloc="202" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="254" ncloc="203" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/DataProcessing/FlexFormProcessor.php">
       <class name="FriendsOfTYPO3\Headless\DataProcessing\FlexFormProcessor" namespace="global">
         <metrics complexity="9" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="97" ncloc="58" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="98" ncloc="59" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/DataProcessing/GalleryProcessor.php">
       <class name="FriendsOfTYPO3\Headless\DataProcessing\GalleryProcessor" namespace="global">
         <metrics complexity="29" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="265" ncloc="208" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="266" ncloc="209" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/DataProcessing/MenuProcessor.php">
       <class name="FriendsOfTYPO3\Headless\DataProcessing\MenuProcessor" namespace="global">
         <metrics complexity="4" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="188" ncloc="109" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="189" ncloc="110" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/DataProcessing/RootSiteProcessing/DomainSchema.php">
       <class name="FriendsOfTYPO3\Headless\DataProcessing\RootSiteProcessing\DomainSchema" namespace="global">
-        <metrics complexity="7" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="21" coveredstatements="21" elements="23" coveredelements="23"/>
+        <metrics complexity="7" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="22" coveredstatements="22" elements="24" coveredelements="24"/>
       </class>
       <line num="47" type="method" name="process" visibility="public" complexity="5" crap="5" count="1"/>
       <line num="49" type="stmt" count="1"/>
@@ -322,6 +322,7 @@
       <line num="64" type="stmt" count="1"/>
       <line num="65" type="stmt" count="1"/>
       <line num="68" type="stmt" count="1"/>
+      <line num="71" type="stmt" count="1"/>
       <line num="72" type="stmt" count="1"/>
       <line num="77" type="stmt" count="1"/>
       <line num="78" type="stmt" count="1"/>
@@ -331,7 +332,7 @@
       <line num="100" type="method" name="processAdditionalDataProcessors" visibility="protected" complexity="1" crap="1" count="1"/>
       <line num="105" type="stmt" count="1"/>
       <line num="106" type="stmt" count="1"/>
-      <metrics loc="108" ncloc="83" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="21" coveredstatements="21" elements="23" coveredelements="23"/>
+      <metrics loc="109" ncloc="84" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="22" coveredstatements="22" elements="24" coveredelements="24"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/DataProcessing/RootSiteProcessing/SiteProvider.php">
       <class name="FriendsOfTYPO3\Headless\DataProcessing\RootSiteProcessing\SiteProvider" namespace="global">
@@ -416,10 +417,10 @@
       <line num="223" type="stmt" count="0"/>
       <line num="224" type="stmt" count="0"/>
       <line num="227" type="stmt" count="0"/>
-      <metrics loc="229" ncloc="174" classes="1" methods="8" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="71" coveredstatements="0" elements="79" coveredelements="0"/>
+      <metrics loc="230" ncloc="175" classes="1" methods="8" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="71" coveredstatements="0" elements="79" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/DataProcessing/RootSiteProcessing/SiteProviderInterface.php">
-      <metrics loc="38" ncloc="19" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="39" ncloc="20" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/DataProcessing/RootSiteProcessing/SiteSchema.php">
       <class name="FriendsOfTYPO3\Headless\DataProcessing\RootSiteProcessing\SiteSchema" namespace="global">
@@ -459,17 +460,17 @@
       <line num="103" type="method" name="processAdditionalDataProcessors" visibility="protected" complexity="1" crap="2" count="0"/>
       <line num="108" type="stmt" count="0"/>
       <line num="109" type="stmt" count="0"/>
-      <metrics loc="111" ncloc="92" classes="1" methods="3" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="31" coveredstatements="0" elements="34" coveredelements="0"/>
+      <metrics loc="112" ncloc="93" classes="1" methods="3" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="31" coveredstatements="0" elements="34" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/DataProcessing/RootSiteProcessing/SiteSchemaInterface.php">
-      <metrics loc="21" ncloc="11" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="22" ncloc="12" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/DataProcessing/RootSiteProcessing/SiteSortingInterface.php">
-      <metrics loc="22" ncloc="13" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="23" ncloc="14" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/DataProcessing/RootSitesProcessor.php">
       <class name="FriendsOfTYPO3\Headless\DataProcessing\RootSitesProcessor" namespace="global">
-        <metrics complexity="5" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="21" coveredstatements="21" elements="22" coveredelements="22"/>
+        <metrics complexity="5" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="22" coveredstatements="22" elements="23" coveredelements="23"/>
       </class>
       <line num="75" type="method" name="process" visibility="public" complexity="5" crap="5" count="5"/>
       <line num="81" type="stmt" count="5"/>
@@ -492,17 +493,18 @@
       <line num="124" type="stmt" count="1"/>
       <line num="126" type="stmt" count="1"/>
       <line num="127" type="stmt" count="1"/>
+      <line num="130" type="stmt" count="1"/>
       <line num="136" type="stmt" count="1"/>
-      <metrics loc="138" ncloc="83" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="21" coveredstatements="21" elements="22" coveredelements="22"/>
+      <metrics loc="139" ncloc="84" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="22" coveredstatements="22" elements="23" coveredelements="23"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Dto/JsonViewDemand.php">
       <class name="FriendsOfTYPO3\Headless\Dto\JsonViewDemand" namespace="global">
         <metrics complexity="19" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="178" ncloc="127" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="179" ncloc="128" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Dto/JsonViewDemandInterface.php">
-      <metrics loc="30" ncloc="21" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="31" ncloc="22" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Event/Listener/RedirectUrlAdditionalParamsListener.php">
       <class name="FriendsOfTYPO3\Headless\Event\Listener\RedirectUrlAdditionalParamsListener" namespace="global">
@@ -539,7 +541,7 @@
       <line num="85" type="stmt" count="1"/>
       <line num="86" type="stmt" count="1"/>
       <line num="88" type="stmt" count="1"/>
-      <metrics loc="155" ncloc="127" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="29" coveredstatements="29" elements="31" coveredelements="31"/>
+      <metrics loc="156" ncloc="128" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="29" coveredstatements="29" elements="31" coveredelements="31"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Event/RedirectUrlEvent.php">
       <class name="FriendsOfTYPO3\Headless\Event\RedirectUrlEvent" namespace="global">
@@ -571,10 +573,10 @@
       <line num="126" type="stmt" count="1"/>
       <line num="129" type="method" name="stopPropagation" visibility="public" complexity="1" crap="1" count="1"/>
       <line num="131" type="stmt" count="1"/>
-      <metrics loc="133" ncloc="84" classes="1" methods="11" coveredmethods="11" conditionals="0" coveredconditionals="0" statements="15" coveredstatements="15" elements="26" coveredelements="26"/>
+      <metrics loc="134" ncloc="85" classes="1" methods="11" coveredmethods="11" conditionals="0" coveredconditionals="0" statements="15" coveredstatements="15" elements="26" coveredelements="26"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Form/CustomOptionsInterface.php">
-      <metrics loc="20" ncloc="11" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="21" ncloc="12" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Form/Decorator/AbstractFormDefinitionDecorator.php">
       <class name="FriendsOfTYPO3\Headless\Form\Decorator\AbstractFormDefinitionDecorator" namespace="global">
@@ -620,16 +622,16 @@
       <line num="110" type="stmt" count="1"/>
       <line num="119" type="method" name="overrideDefinition" visibility="protected" complexity="1" crap="1" count="2"/>
       <line num="121" type="stmt" count="2"/>
-      <metrics loc="123" ncloc="92" classes="1" methods="6" coveredmethods="6" conditionals="0" coveredconditionals="0" statements="34" coveredstatements="34" elements="40" coveredelements="40"/>
+      <metrics loc="124" ncloc="93" classes="1" methods="6" coveredmethods="6" conditionals="0" coveredconditionals="0" statements="34" coveredstatements="34" elements="40" coveredelements="40"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Form/Decorator/DefinitionDecoratorInterface.php">
-      <metrics loc="21" ncloc="11" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="22" ncloc="12" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Form/Decorator/FormDefinitionDecorator.php">
       <class name="FriendsOfTYPO3\Headless\Form\Decorator\FormDefinitionDecorator" namespace="global">
         <metrics complexity="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="16" ncloc="10" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="17" ncloc="11" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Form/Finisher/JsonRedirectFinisher.php">
       <class name="FriendsOfTYPO3\Headless\Form\Finisher\JsonRedirectFinisher" namespace="global">
@@ -660,7 +662,7 @@
       <line num="98" type="stmt" count="0"/>
       <line num="104" type="stmt" count="0"/>
       <line num="105" type="stmt" count="0"/>
-      <metrics loc="108" ncloc="84" classes="1" methods="2" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="23" coveredstatements="0" elements="25" coveredelements="0"/>
+      <metrics loc="109" ncloc="85" classes="1" methods="2" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="23" coveredstatements="0" elements="25" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Form/Service/FormTranslationService.php">
       <class name="FriendsOfTYPO3\Headless\Form\Service\FormTranslationService" namespace="global">
@@ -776,11 +778,11 @@
       <line num="298" type="stmt" count="0"/>
       <line num="301" type="stmt" count="0"/>
       <line num="303" type="stmt" count="0"/>
-      <metrics loc="305" ncloc="280" classes="1" methods="3" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="107" coveredstatements="0" elements="110" coveredelements="0"/>
+      <metrics loc="306" ncloc="281" classes="1" methods="3" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="107" coveredstatements="0" elements="110" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Form/Translator.php">
       <class name="FriendsOfTYPO3\Headless\Form\Translator" namespace="global">
-        <metrics complexity="22" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="44" coveredstatements="44" elements="47" coveredelements="47"/>
+        <metrics complexity="22" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="47" coveredstatements="47" elements="50" coveredelements="50"/>
       </class>
       <line num="25" type="method" name="__construct" visibility="public" complexity="1" crap="1" count="1"/>
       <line num="27" type="stmt" count="1"/>
@@ -816,6 +818,7 @@
       <line num="97" type="stmt" count="1"/>
       <line num="98" type="stmt" count="1"/>
       <line num="100" type="stmt" count="1"/>
+      <line num="102" type="stmt" count="1"/>
       <line num="108" type="stmt" count="1"/>
       <line num="109" type="stmt" count="1"/>
       <line num="110" type="stmt" count="1"/>
@@ -825,29 +828,31 @@
       <line num="114" type="stmt" count="1"/>
       <line num="116" type="stmt" count="1"/>
       <line num="123" type="stmt" count="1"/>
+      <line num="125" type="stmt" count="1"/>
       <line num="129" type="stmt" count="1"/>
+      <line num="131" type="stmt" count="1"/>
       <line num="135" type="stmt" count="1"/>
       <line num="136" type="stmt" count="1"/>
       <line num="139" type="stmt" count="1"/>
-      <metrics loc="141" ncloc="125" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="44" coveredstatements="44" elements="47" coveredelements="47"/>
+      <metrics loc="142" ncloc="126" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="47" coveredstatements="47" elements="50" coveredelements="50"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Hooks/FileOrFolderLinkBuilder.php">
       <class name="FriendsOfTYPO3\Headless\Hooks\FileOrFolderLinkBuilder" namespace="global">
         <metrics complexity="6" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="42" ncloc="29" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="43" ncloc="30" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Hooks/PreviewUrlHook.php">
       <class name="FriendsOfTYPO3\Headless\Hooks\PreviewUrlHook" namespace="global">
         <metrics complexity="1" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="38" ncloc="17" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="39" ncloc="18" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Hooks/TypolinkHook.php">
       <class name="FriendsOfTYPO3\Headless\Hooks\TypolinkHook" namespace="global">
         <metrics complexity="4" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="40" ncloc="30" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="41" ncloc="31" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Json/JsonDecoder.php">
       <class name="FriendsOfTYPO3\Headless\Json\JsonDecoder" namespace="global">
@@ -874,10 +879,10 @@
       <line num="63" type="stmt" count="17"/>
       <line num="64" type="stmt" count="14"/>
       <line num="67" type="stmt" count="4"/>
-      <metrics loc="69" ncloc="57" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="19" coveredstatements="19" elements="21" coveredelements="21"/>
+      <metrics loc="70" ncloc="58" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="19" coveredstatements="19" elements="21" coveredelements="21"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Json/JsonDecoderInterface.php">
-      <metrics loc="27" ncloc="13" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="28" ncloc="14" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Json/JsonEncoder.php">
       <class name="FriendsOfTYPO3\Headless\Json\JsonEncoder" namespace="global">
@@ -890,10 +895,10 @@
       <line num="36" type="stmt" count="1"/>
       <line num="37" type="stmt" count="1"/>
       <line num="38" type="stmt" count="1"/>
-      <metrics loc="41" ncloc="32" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="6" coveredstatements="6" elements="7" coveredelements="7"/>
+      <metrics loc="42" ncloc="33" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="6" coveredstatements="6" elements="7" coveredelements="7"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Json/JsonEncoderInterface.php">
-      <metrics loc="22" ncloc="11" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="23" ncloc="12" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Middleware/ElementBodyResponseMiddleware.php">
       <class name="FriendsOfTYPO3\Headless\Middleware\ElementBodyResponseMiddleware" namespace="global">
@@ -935,13 +940,13 @@
       <line num="101" type="stmt" count="1"/>
       <line num="102" type="stmt" count="1"/>
       <line num="110" type="stmt" count="1"/>
-      <metrics loc="112" ncloc="98" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="33" coveredstatements="33" elements="36" coveredelements="36"/>
+      <metrics loc="113" ncloc="99" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="33" coveredstatements="33" elements="36" coveredelements="36"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Middleware/RedirectHandler.php">
       <class name="FriendsOfTYPO3\Headless\Middleware\RedirectHandler" namespace="global">
         <metrics complexity="14" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="138" ncloc="116" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="139" ncloc="117" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Middleware/ShortcutAndMountPointRedirect.php">
       <class name="FriendsOfTYPO3\Headless\Middleware\ShortcutAndMountPointRedirect" namespace="global">
@@ -994,7 +999,7 @@
       <line num="123" type="stmt" count="5"/>
       <line num="125" type="stmt" count="5"/>
       <line num="126" type="stmt" count="5"/>
-      <metrics loc="128" ncloc="112" classes="1" methods="5" coveredmethods="5" conditionals="0" coveredconditionals="0" statements="42" coveredstatements="42" elements="47" coveredelements="47"/>
+      <metrics loc="129" ncloc="113" classes="1" methods="5" coveredmethods="5" conditionals="0" coveredconditionals="0" statements="42" coveredstatements="42" elements="47" coveredelements="47"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Middleware/UserIntMiddleware.php">
       <class name="FriendsOfTYPO3\Headless\Middleware\UserIntMiddleware" namespace="global">
@@ -1014,92 +1019,92 @@
       <line num="57" type="stmt" count="1"/>
       <line num="58" type="stmt" count="1"/>
       <line num="60" type="stmt" count="1"/>
-      <metrics loc="62" ncloc="50" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="12" elements="14" coveredelements="14"/>
+      <metrics loc="63" ncloc="51" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="12" elements="14" coveredelements="14"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Resource/Rendering/AudioTagRenderer.php">
       <class name="FriendsOfTYPO3\Headless\Resource\Rendering\AudioTagRenderer" namespace="global">
         <metrics complexity="17" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="88" ncloc="63" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="89" ncloc="64" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Resource/Rendering/VideoTagRenderer.php">
       <class name="FriendsOfTYPO3\Headless\Resource\Rendering\VideoTagRenderer" namespace="global">
         <metrics complexity="21" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="96" ncloc="71" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="97" ncloc="72" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Resource/Rendering/VimeoRenderer.php">
       <class name="FriendsOfTYPO3\Headless\Resource\Rendering\VimeoRenderer" namespace="global">
         <metrics complexity="3" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="49" ncloc="25" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="50" ncloc="26" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Resource/Rendering/YouTubeRenderer.php">
       <class name="FriendsOfTYPO3\Headless\Resource\Rendering\YouTubeRenderer" namespace="global">
         <metrics complexity="3" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="49" ncloc="25" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="50" ncloc="26" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Seo/XmlSitemap/PagesXmlSitemapDataProvider.php">
       <class name="FriendsOfTYPO3\Headless\Seo\XmlSitemap\PagesXmlSitemapDataProvider" namespace="global">
         <metrics complexity="1" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="30" ncloc="21" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="31" ncloc="22" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Seo/XmlSitemap/RecordsXmlSitemapDataProvider.php">
       <class name="FriendsOfTYPO3\Headless\Seo\XmlSitemap\RecordsXmlSitemapDataProvider" namespace="global">
         <metrics complexity="2" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="44" ncloc="35" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="45" ncloc="36" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Seo/XmlSitemap/XmlSitemapRenderer.php">
       <class name="FriendsOfTYPO3\Headless\Seo\XmlSitemap\XmlSitemapRenderer" namespace="global">
         <metrics complexity="7" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="74" ncloc="57" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="75" ncloc="58" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Service/BackendTsfeService.php">
       <class name="FriendsOfTYPO3\Headless\Service\BackendTsfeService" namespace="global">
         <metrics complexity="16" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="179" ncloc="162" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="180" ncloc="163" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Service/BackendTsfeServiceInterface.php">
-      <metrics loc="23" ncloc="14" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="24" ncloc="15" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Service/JsonViewConfigurationService.php">
       <class name="FriendsOfTYPO3\Headless\Service\JsonViewConfigurationService" namespace="global">
         <metrics complexity="22" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="159" ncloc="150" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="160" ncloc="151" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Service/JsonViewConfigurationServiceInterface.php">
-      <metrics loc="28" ncloc="19" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="29" ncloc="20" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Service/PaginationService.php">
       <class name="FriendsOfTYPO3\Headless\Service\PaginationService" namespace="global">
         <metrics complexity="20" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="205" ncloc="148" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="206" ncloc="149" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Service/Parser/DefaultJsonParser.php">
       <class name="FriendsOfTYPO3\Headless\Service\Parser\DefaultJsonParser" namespace="global">
         <metrics complexity="4" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="66" ncloc="57" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="67" ncloc="58" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Service/Parser/JsonParserInterface.php">
-      <metrics loc="18" ncloc="9" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="19" ncloc="10" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Service/Parser/PageJsonParser.php">
       <class name="FriendsOfTYPO3\Headless\Service\Parser\PageJsonParser" namespace="global">
         <metrics complexity="32" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="193" ncloc="182" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="194" ncloc="183" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Utility/FileUtility.php">
       <class name="FriendsOfTYPO3\Headless\Utility\FileUtility" namespace="global">
-        <metrics complexity="24" methods="9" coveredmethods="9" conditionals="0" coveredconditionals="0" statements="83" coveredstatements="83" elements="92" coveredelements="92"/>
+        <metrics complexity="24" methods="9" coveredmethods="9" conditionals="0" coveredconditionals="0" statements="84" coveredstatements="84" elements="93" coveredelements="93"/>
       </class>
       <line num="65" type="method" name="__construct" visibility="public" complexity="1" crap="1" count="3"/>
       <line num="71" type="stmt" count="3"/>
@@ -1142,6 +1147,7 @@
       <line num="134" type="stmt" count="1"/>
       <line num="137" type="stmt" count="1"/>
       <line num="138" type="stmt" count="1"/>
+      <line num="142" type="stmt" count="1"/>
       <line num="143" type="stmt" count="1"/>
       <line num="153" type="method" name="processImageFile" visibility="public" complexity="6" crap="6" count="2"/>
       <line num="156" type="stmt" count="2"/>
@@ -1193,14 +1199,14 @@
       <line num="249" type="stmt" count="2"/>
       <line num="252" type="method" name="createCropVariant" visibility="protected" complexity="1" crap="1" count="2"/>
       <line num="254" type="stmt" count="2"/>
-      <metrics loc="264" ncloc="198" classes="1" methods="9" coveredmethods="9" conditionals="0" coveredconditionals="0" statements="83" coveredstatements="83" elements="92" coveredelements="92"/>
+      <metrics loc="265" ncloc="199" classes="1" methods="9" coveredmethods="9" conditionals="0" coveredconditionals="0" statements="84" coveredstatements="84" elements="93" coveredelements="93"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Utility/HeadlessFrontendUrlInterface.php">
-      <metrics loc="31" ncloc="25" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="32" ncloc="26" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Utility/HeadlessUserInt.php">
       <class name="FriendsOfTYPO3\Headless\Utility\HeadlessUserInt" namespace="global">
-        <metrics complexity="9" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="18" coveredstatements="18" elements="21" coveredelements="21"/>
+        <metrics complexity="9" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="20" coveredstatements="20" elements="23" coveredelements="23"/>
       </class>
       <line num="36" type="method" name="replace" visibility="private" complexity="6" crap="6" count="7"/>
       <line num="38" type="stmt" count="7"/>
@@ -1221,15 +1227,17 @@
       <line num="68" type="stmt" count="7"/>
       <line num="69" type="stmt" count="3"/>
       <line num="70" type="stmt" count="3"/>
+      <line num="71" type="stmt" count="3"/>
       <line num="76" type="stmt" count="7"/>
       <line num="77" type="stmt" count="7"/>
-      <metrics loc="82" ncloc="67" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="18" coveredstatements="18" elements="21" coveredelements="21"/>
+      <line num="78" type="stmt" count="7"/>
+      <metrics loc="83" ncloc="68" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="20" coveredstatements="20" elements="23" coveredelements="23"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Utility/JsonViewMenusUtility.php">
       <class name="FriendsOfTYPO3\Headless\Utility\JsonViewMenusUtility" namespace="global">
         <metrics complexity="22" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="199" ncloc="186" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="200" ncloc="187" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Utility/UrlUtility.php">
       <class name="FriendsOfTYPO3\Headless\Utility\UrlUtility" namespace="global">
@@ -1305,74 +1313,74 @@
       <line num="196" type="stmt" count="1"/>
       <line num="197" type="stmt" count="1"/>
       <line num="202" type="stmt" count="2"/>
-      <metrics loc="204" ncloc="183" classes="1" methods="10" coveredmethods="10" conditionals="0" coveredconditionals="0" statements="60" coveredstatements="60" elements="70" coveredelements="70"/>
+      <metrics loc="205" ncloc="184" classes="1" methods="10" coveredmethods="10" conditionals="0" coveredconditionals="0" statements="60" coveredstatements="60" elements="70" coveredelements="70"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/ViewHelpers/Form/RegisterFieldViewHelper.php">
       <class name="FriendsOfTYPO3\Headless\ViewHelpers\Form\RegisterFieldViewHelper" namespace="global">
         <metrics complexity="10" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="76" ncloc="57" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="77" ncloc="58" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/ViewHelpers/Format/Json/DecodeViewHelper.php">
       <class name="FriendsOfTYPO3\Headless\ViewHelpers\Format\Json\DecodeViewHelper" namespace="global">
-        <metrics complexity="4" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+        <metrics complexity="6" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="43" ncloc="26" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="56" ncloc="39" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/ViewHelpers/Iterator/ExplodeViewHelper.php">
       <class name="FriendsOfTYPO3\Headless\ViewHelpers\Iterator\ExplodeViewHelper" namespace="global">
         <metrics complexity="10" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="79" ncloc="51" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="80" ncloc="52" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/ViewHelpers/LoginFormViewHelper.php">
       <class name="FriendsOfTYPO3\Headless\ViewHelpers\LoginFormViewHelper" namespace="global">
         <metrics complexity="26" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="273" ncloc="188" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="274" ncloc="189" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/XClass/Controller/FormFrontendController.php">
       <class name="FriendsOfTYPO3\Headless\XClass\Controller\FormFrontendController" namespace="global">
         <metrics complexity="34" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="282" ncloc="231" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="283" ncloc="232" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/XClass/FormRuntime.php">
       <class name="FriendsOfTYPO3\Headless\XClass\FormRuntime" namespace="global">
         <metrics complexity="2" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="36" ncloc="21" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="37" ncloc="22" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/XClass/ImageService.php">
       <class name="FriendsOfTYPO3\Headless\XClass\ImageService" namespace="global">
         <metrics complexity="4" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="44" ncloc="32" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="45" ncloc="33" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/XClass/ResourceLocalDriver.php">
       <class name="FriendsOfTYPO3\Headless\XClass\ResourceLocalDriver" namespace="global">
         <metrics complexity="5" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="42" ncloc="33" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="43" ncloc="34" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/XClass/Routing/PageRouter.php">
       <class name="FriendsOfTYPO3\Headless\XClass\Routing\PageRouter" namespace="global">
         <metrics complexity="6" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="67" ncloc="49" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="68" ncloc="50" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/XClass/Typolink/LinkResult.php">
       <class name="FriendsOfTYPO3\Headless\XClass\Typolink\LinkResult" namespace="global">
         <metrics complexity="1" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="29" ncloc="20" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="30" ncloc="21" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/XClass/Typolink/PageLinkBuilder.php">
       <class name="FriendsOfTYPO3\Headless\XClass\Typolink\PageLinkBuilder" namespace="global">
         <metrics complexity="22" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="114" ncloc="95" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="115" ncloc="96" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
-    <metrics files="72" loc="7591" ncloc="5854" classes="24" methods="92" coveredmethods="72" conditionals="0" coveredconditionals="0" statements="884" coveredstatements="561" elements="976" coveredelements="633"/>
+    <metrics files="72" loc="7675" ncloc="5938" classes="24" methods="92" coveredmethods="72" conditionals="0" coveredconditionals="0" statements="892" coveredstatements="569" elements="984" coveredelements="641"/>
   </project>
 </coverage>
