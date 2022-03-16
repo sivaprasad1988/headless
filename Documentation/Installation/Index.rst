@@ -28,4 +28,3 @@ After TYPO3 is running, we can continue installing the headless extension:
 
       We recommend to use an URL like `https://api.mydomain.org` as endpoint, because it might come to unexpected
       behaviours with URLs like `https://mydomain.org/api`. Probably this will be improved in a future version.
-"Tomasz Woldański" <t.woldanski@macopedia.com>, "Olga Stefaniuk" <o.stefaniuk@macopedia.com>, "Joanna Szwant" <j.szwant@macopedia.com>, "Piotr Żęgota" <p.zegota@macopedia.com>, "Oskar Dydo" <o.dydo@macopedia.com>, "Marcin Sągol" <m.sagol@macopedia.com>, "Katarzyna Szpakowska" <k.szpakowska@macopedia.com>,
