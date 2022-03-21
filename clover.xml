@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1647863714">
-  <project timestamp="1647863714">
+<coverage generated="1647864478">
+  <project timestamp="1647864478">
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/BooleanContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\BooleanContentObject" namespace="global">
         <metrics complexity="5" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="12" elements="13" coveredelements="13"/>
@@ -284,7 +284,7 @@
       <class name="FriendsOfTYPO3\Headless\DataProcessing\FilesProcessor" namespace="global">
         <metrics complexity="31" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="254" ncloc="203" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="249" ncloc="198" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/DataProcessing/FlexFormProcessor.php">
       <class name="FriendsOfTYPO3\Headless\DataProcessing\FlexFormProcessor" namespace="global">
@@ -1381,6 +1381,6 @@
       </class>
       <metrics loc="115" ncloc="96" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
-    <metrics files="72" loc="7679" ncloc="5942" classes="24" methods="92" coveredmethods="72" conditionals="0" coveredconditionals="0" statements="892" coveredstatements="569" elements="984" coveredelements="641"/>
+    <metrics files="72" loc="7674" ncloc="5937" classes="24" methods="92" coveredmethods="72" conditionals="0" coveredconditionals="0" statements="892" coveredstatements="569" elements="984" coveredelements="641"/>
   </project>
 </coverage>
