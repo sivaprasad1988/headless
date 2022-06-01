@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1654002617">
-  <project timestamp="1654002617">
+<coverage generated="1654090378">
+  <project timestamp="1654090378">
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/BooleanContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\BooleanContentObject" namespace="global">
         <metrics complexity="5" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="12" elements="13" coveredelements="13"/>
@@ -850,9 +850,9 @@
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Hooks/TypolinkHook.php">
       <class name="FriendsOfTYPO3\Headless\Hooks\TypolinkHook" namespace="global">
-        <metrics complexity="4" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+        <metrics complexity="11" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="41" ncloc="31" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="83" ncloc="73" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Json/JsonDecoder.php">
       <class name="FriendsOfTYPO3\Headless\Json\JsonDecoder" namespace="global">
@@ -1369,18 +1369,12 @@
       </class>
       <metrics loc="68" ncloc="50" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
-    <file name="/home/runner/work/headless/headless/Classes/XClass/Typolink/LinkResult.php">
-      <class name="FriendsOfTYPO3\Headless\XClass\Typolink\LinkResult" namespace="global">
-        <metrics complexity="1" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
-      </class>
-      <metrics loc="30" ncloc="21" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
-    </file>
     <file name="/home/runner/work/headless/headless/Classes/XClass/Typolink/PageLinkBuilder.php">
       <class name="FriendsOfTYPO3\Headless\XClass\Typolink\PageLinkBuilder" namespace="global">
         <metrics complexity="22" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
       <metrics loc="115" ncloc="96" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
-    <metrics files="72" loc="7674" ncloc="5937" classes="24" methods="92" coveredmethods="72" conditionals="0" coveredconditionals="0" statements="892" coveredstatements="569" elements="984" coveredelements="641"/>
+    <metrics files="71" loc="7686" ncloc="5958" classes="24" methods="92" coveredmethods="72" conditionals="0" coveredconditionals="0" statements="892" coveredstatements="569" elements="984" coveredelements="641"/>
   </project>
 </coverage>
