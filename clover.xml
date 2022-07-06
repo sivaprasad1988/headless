@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1657119174">
-  <project timestamp="1657119174">
+<coverage generated="1657119385">
+  <project timestamp="1657119385">
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/BooleanContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\BooleanContentObject" namespace="global">
         <metrics complexity="5" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="12" elements="13" coveredelements="13"/>
@@ -787,7 +787,7 @@
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Form/Translator.php">
       <class name="FriendsOfTYPO3\Headless\Form\Translator" namespace="global">
-        <metrics complexity="22" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="47" coveredstatements="47" elements="50" coveredelements="50"/>
+        <metrics complexity="23" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="47" coveredstatements="47" elements="50" coveredelements="50"/>
       </class>
       <line num="25" type="method" name="__construct" visibility="public" complexity="1" crap="1" count="1"/>
       <line num="27" type="stmt" count="1"/>
@@ -807,7 +807,7 @@
       <line num="59" type="stmt" count="1"/>
       <line num="61" type="stmt" count="1"/>
       <line num="64" type="stmt" count="1"/>
-      <line num="72" type="method" name="translateRenderables" visibility="private" complexity="15" crap="15" count="1"/>
+      <line num="72" type="method" name="translateRenderables" visibility="private" complexity="16" crap="16" count="1"/>
       <line num="74" type="stmt" count="1"/>
       <line num="75" type="stmt" count="1"/>
       <line num="77" type="stmt" count="1"/>
