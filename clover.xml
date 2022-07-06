@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1657121702">
-  <project timestamp="1657121702">
+<coverage generated="1657123125">
+  <project timestamp="1657123125">
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/BooleanContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\BooleanContentObject" namespace="global">
         <metrics complexity="5" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="12" elements="13" coveredelements="13"/>
@@ -949,9 +949,9 @@
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Middleware/RedirectHandler.php">
       <class name="FriendsOfTYPO3\Headless\Middleware\RedirectHandler" namespace="global">
-        <metrics complexity="14" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+        <metrics complexity="5" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="139" ncloc="117" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="92" ncloc="74" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Middleware/ShortcutAndMountPointRedirect.php">
       <class name="FriendsOfTYPO3\Headless\Middleware\ShortcutAndMountPointRedirect" namespace="global">
@@ -1382,6 +1382,6 @@
       </class>
       <metrics loc="115" ncloc="96" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
-    <metrics files="71" loc="7707" ncloc="5976" classes="24" methods="93" coveredmethods="72" conditionals="0" coveredconditionals="0" statements="898" coveredstatements="571" elements="991" coveredelements="643"/>
+    <metrics files="71" loc="7660" ncloc="5933" classes="24" methods="93" coveredmethods="72" conditionals="0" coveredconditionals="0" statements="898" coveredstatements="571" elements="991" coveredelements="643"/>
   </project>
 </coverage>
