@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1657198127">
-  <project timestamp="1657198127">
+<coverage generated="1658758681">
+  <project timestamp="1658758681">
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/BooleanContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\BooleanContentObject" namespace="global">
         <metrics complexity="5" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="12" elements="13" coveredelements="13"/>
@@ -642,32 +642,32 @@
       <class name="FriendsOfTYPO3\Headless\Form\Finisher\JsonRedirectFinisher" namespace="global">
         <metrics complexity="5" methods="2" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="23" coveredstatements="0" elements="25" coveredelements="0"/>
       </class>
-      <line num="49" type="method" name="executeInternal" visibility="protected" complexity="3" crap="12" count="0"/>
-      <line num="51" type="stmt" count="0"/>
-      <line num="52" type="stmt" count="0"/>
+      <line num="51" type="method" name="executeInternal" visibility="protected" complexity="3" crap="12" count="0"/>
       <line num="53" type="stmt" count="0"/>
       <line num="54" type="stmt" count="0"/>
-      <line num="59" type="stmt" count="0"/>
+      <line num="55" type="stmt" count="0"/>
+      <line num="56" type="stmt" count="0"/>
       <line num="61" type="stmt" count="0"/>
-      <line num="62" type="stmt" count="0"/>
       <line num="63" type="stmt" count="0"/>
       <line num="64" type="stmt" count="0"/>
-      <line num="67" type="stmt" count="0"/>
-      <line num="72" type="stmt" count="0"/>
-      <line num="73" type="stmt" count="0"/>
+      <line num="65" type="stmt" count="0"/>
+      <line num="66" type="stmt" count="0"/>
+      <line num="69" type="stmt" count="0"/>
       <line num="74" type="stmt" count="0"/>
       <line num="75" type="stmt" count="0"/>
+      <line num="76" type="stmt" count="0"/>
       <line num="77" type="stmt" count="0"/>
       <line num="79" type="stmt" count="0"/>
-      <line num="82" type="method" name="prepareRedirect" visibility="protected" complexity="2" crap="6" count="0"/>
-      <line num="88" type="stmt" count="0"/>
-      <line num="89" type="stmt" count="0"/>
+      <line num="81" type="stmt" count="0"/>
+      <line num="84" type="method" name="prepareRedirect" visibility="protected" complexity="2" crap="6" count="0"/>
       <line num="90" type="stmt" count="0"/>
-      <line num="96" type="stmt" count="0"/>
+      <line num="91" type="stmt" count="0"/>
+      <line num="92" type="stmt" count="0"/>
       <line num="98" type="stmt" count="0"/>
-      <line num="104" type="stmt" count="0"/>
-      <line num="105" type="stmt" count="0"/>
-      <metrics loc="109" ncloc="85" classes="1" methods="2" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="23" coveredstatements="0" elements="25" coveredelements="0"/>
+      <line num="100" type="stmt" count="0"/>
+      <line num="106" type="stmt" count="0"/>
+      <line num="107" type="stmt" count="0"/>
+      <metrics loc="111" ncloc="87" classes="1" methods="2" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="23" coveredstatements="0" elements="25" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Form/Service/FormTranslationService.php">
       <class name="FriendsOfTYPO3\Headless\Form\Service\FormTranslationService" namespace="global">
@@ -857,7 +857,7 @@
       <class name="FriendsOfTYPO3\Headless\Hooks\TypolinkHook" namespace="global">
         <metrics complexity="11" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="83" ncloc="73" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="84" ncloc="74" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Json/JsonDecoder.php">
       <class name="FriendsOfTYPO3\Headless\Json\JsonDecoder" namespace="global">
@@ -893,14 +893,14 @@
       <class name="FriendsOfTYPO3\Headless\Json\JsonEncoder" namespace="global">
         <metrics complexity="3" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="6" coveredstatements="6" elements="7" coveredelements="7"/>
       </class>
-      <line num="28" type="method" name="encode" visibility="public" complexity="3" crap="3" count="25"/>
-      <line num="31" type="stmt" count="25"/>
+      <line num="29" type="method" name="encode" visibility="public" complexity="3" crap="3" count="25"/>
       <line num="32" type="stmt" count="25"/>
-      <line num="35" type="stmt" count="25"/>
-      <line num="36" type="stmt" count="1"/>
+      <line num="33" type="stmt" count="25"/>
+      <line num="36" type="stmt" count="25"/>
       <line num="37" type="stmt" count="1"/>
       <line num="38" type="stmt" count="1"/>
-      <metrics loc="42" ncloc="33" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="6" coveredstatements="6" elements="7" coveredelements="7"/>
+      <line num="39" type="stmt" count="1"/>
+      <metrics loc="43" ncloc="34" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="6" coveredstatements="6" elements="7" coveredelements="7"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/Json/JsonEncoderInterface.php">
       <metrics loc="23" ncloc="12" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
@@ -1384,6 +1384,6 @@
       </class>
       <metrics loc="115" ncloc="96" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
-    <metrics files="71" loc="7662" ncloc="5935" classes="24" methods="93" coveredmethods="72" conditionals="0" coveredconditionals="0" statements="900" coveredstatements="573" elements="993" coveredelements="645"/>
+    <metrics files="71" loc="7666" ncloc="5939" classes="24" methods="93" coveredmethods="72" conditionals="0" coveredconditionals="0" statements="900" coveredstatements="573" elements="993" coveredelements="645"/>
   </project>
 </coverage>
